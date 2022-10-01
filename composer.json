@@ -1,5 +1,5 @@
 {
-    "name": "vinkla/hashids",
+    "name": "toanld/hashids",
     "description": "A Hashids bridge for Laravel",
     "license": "MIT",
     "keywords": [
@@ -15,9 +15,7 @@
     "require": {
         "php": "^8.0",
         "graham-campbell/manager": "^4.7",
-        "hashids/hashids": "^4.1",
-        "illuminate/contracts": "^9.0",
-        "illuminate/support": "^9.0"
+        "hashids/hashids": "^4.1"
     },
     "require-dev": {
         "graham-campbell/analyzer": "^3.0",
